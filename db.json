@@ -1,0 +1,16 @@
+{
+  "tours": [
+    {
+      "id": "assSds9fd",
+      "destination": "Tokyo",
+      "cost": "2000",
+      "hotel": "5"
+    },
+    {
+      "id": "8sD8sdsd",
+      "destination": "Berlin",
+      "cost": 120,
+      "hotel": 4
+    }
+  ]
+}
